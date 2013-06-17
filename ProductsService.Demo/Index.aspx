@@ -14,12 +14,12 @@
     <p>Project-2</p>
 
     <p>Project-1</p>
-<<<<<<< HEAD
+
     <p>Team-1</p>
 
-=======
+
     <p>Team-2</p>
->>>>>>> adding team -2 code
+
     </div>
     </form>
 </body>
