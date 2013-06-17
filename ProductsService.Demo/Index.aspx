@@ -9,13 +9,17 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <p>First changes by Team1</p>
+    <p>First changes by Team2</p>
 
     <p>Project-2</p>
 
     <p>Project-1</p>
+<<<<<<< HEAD
     <p>Team-1</p>
 
+=======
+    <p>Team-2</p>
+>>>>>>> adding team -2 code
     </div>
     </form>
 </body>
