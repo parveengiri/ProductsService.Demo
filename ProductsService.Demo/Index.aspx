@@ -33,6 +33,7 @@
 <p>Rebase-2:Team1</p>
 >>>>>>> adding rebase -2 team1
 <%--Team1 Area--%>
+Adding code in Team1 area
 
 <%--Team2 Area--%>
     </div>
