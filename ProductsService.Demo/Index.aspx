@@ -27,7 +27,7 @@
     <p>Merge-1::: Team2</p>
 >>>>>>> github/master
 <<<<<<< HEAD
-
+<%--fecth and rebase--%>
 <p>Rebase-1:::Team2</p>
 =======
 <p>Rebase-2:Team1</p>
