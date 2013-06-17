@@ -36,10 +36,10 @@
 <%--Team1 Area--%>
 
 <%--Team2 Area--%>
-=======
+
+Adding code for Team2
 
 
->>>>>>> add changes
     </div>
     </form>
 </body>
