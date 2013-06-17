@@ -39,7 +39,7 @@ Adding code in Team1 area
 <%--Team2 Area--%>
 
 Adding code for Team2
-
+<p>Tagging Team1</p>
 
     </div>
     </form>
