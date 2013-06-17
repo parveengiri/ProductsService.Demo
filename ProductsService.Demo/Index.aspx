@@ -32,9 +32,14 @@
 =======
 <p>Rebase-2:Team1</p>
 >>>>>>> adding rebase -2 team1
+<<<<<<< HEAD
 <%--Team1 Area--%>
 
 <%--Team2 Area--%>
+=======
+
+
+>>>>>>> add changes
     </div>
     </form>
 </body>
