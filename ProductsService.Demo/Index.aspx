@@ -26,8 +26,12 @@
 =======
     <p>Merge-1::: Team2</p>
 >>>>>>> github/master
+<<<<<<< HEAD
 
 <p>Rebase-1:::Team2</p>
+=======
+<p>Rebase-2:Team1</p>
+>>>>>>> adding rebase -2 team1
     </div>
     </form>
 </body>
