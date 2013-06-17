@@ -19,8 +19,13 @@
 
 
     <p>Team-2</p>
+   <%-- fetch and merge--%>
+<<<<<<< HEAD
     <p>Merge-2:Team1</p>
 
+=======
+    <p>Merge-1::: Team2</p>
+>>>>>>> github/master
     </div>
     </form>
 </body>
