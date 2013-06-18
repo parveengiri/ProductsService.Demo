@@ -47,7 +47,7 @@ Adding code for Team2
    </div>
 
     </div>
->>>>>>> parent of 45b20b6... resolve the problem
+
     </form>
 </body>
 </html>
